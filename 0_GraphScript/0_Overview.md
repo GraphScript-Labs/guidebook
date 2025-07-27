@@ -1,6 +1,6 @@
 # GraphScript Overview
 
-GraphScript is a visual scripting engine and flow-based programming IDE being developed under the organization [`GraphScript-Labs`](https://github.com/GraphScript-Labs). Here’s a quick overview:
+GraphScript is a visual scripting engine and flow-based programming IDE being developed under the organization [`GraphScript-Labs`](https://github.com/GraphScript-Labs).
 
 ## 🚀 What is GraphScript?
 
