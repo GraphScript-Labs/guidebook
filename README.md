@@ -1,3 +1,5 @@
+> This repository powers the [GraphScript Docs](https://graphscript-labs.github.io/docs/).
+
 # GraphScript Guidebook
 
 Welcome to the official Guidebook for **GraphScript**, a visual scripting environment designed for intuitive, flow-based programming.
